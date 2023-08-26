@@ -1,0 +1,9 @@
+---
+- id: 1
+  name: ""
+  brand: ""
+  country: ""
+  productionYear: ""
+  engineCapacity: ""
+  price: ""
+  isSold: "Нет"
